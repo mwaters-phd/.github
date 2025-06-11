@@ -1,4 +1,4 @@
-# Partha's PhD Workspace 🙌
+# Max Waters's PhD Workspace 🙌
 
 This organization contains the work during Max Waters's PhD program at RMIT University. 👩‍🎓
 
