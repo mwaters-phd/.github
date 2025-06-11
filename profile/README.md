@@ -2,6 +2,8 @@
 
 This organization contains the work during Max Waters's PhD program at RMIT University. 👩‍🎓
 
+Supervisors: Prof. Lin Padgham and A/Prof. Sebastian Sardina
+
 ## Papers
 
 - Max Waters, Lin Padgham, Sebastian Sardiña: [Optimising Partial-Order Plans Via Action Reinstantiation](https://doi.org/10.24963/ijcai.2020/573). IJCAI 2020: 4143-4151
