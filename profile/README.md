@@ -2,7 +2,7 @@
 
 This organization contains the work during Max Waters's PhD program at RMIT University. 👩‍🎓
 
-Supervisors: Prof. Lin Padgham and A/Prof. Sebastian Sardina
+**Supervisors:** Prof. Lin Padgham and A/Prof. Sebastian Sardina
 
 ## Papers
 
